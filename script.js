@@ -5,12 +5,15 @@ async function getProfile() {
 
             const data = await response.json();
 
+            console.log(data);
+
             if (data.message === "Not Found") {
                 document.getElementById("result").innerHTML =
                     "<h2>User Not Found</h2>";
                 return;
             }
 
+            
             document.getElementById("result").innerHTML = `
 
                 <h2>Name: ${data.name}</h2>
