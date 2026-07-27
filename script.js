@@ -26,5 +26,7 @@ async function getProfile() {
 
                 <p>Public repos: ${data.public_repos}</p>
 
+                <p>Location: ${data.location}</p>
+
                 `
         }
