@@ -1,6 +1,7 @@
 # Here is the commit list for contribution graph 
 
-- 1st/2nd commit list 
+- 1st/2nd commit list
+- 3rd commit list is the attaching imp files 
 
 # 🔍 GitHub Profile Finder
 
