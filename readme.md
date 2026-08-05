@@ -1,7 +1,8 @@
 # Here is the commit list for contribution graph 
 
 - 1st/2nd commit list
-- 3rd commit list is the attaching imp files 
+- 3rd commit list is the attaching imp files
+- 4th commit list is the check and changes 
 
 # 🔍 GitHub Profile Finder
 
