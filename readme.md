@@ -1,10 +1,3 @@
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is the attachimg some imp file 
-
-
-
 # 🔍 GitHub Profile Finder
 
 A simple and responsive web application that allows users to search GitHub profiles using the GitHub REST API.
