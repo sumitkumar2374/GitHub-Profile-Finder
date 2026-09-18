@@ -1,6 +1,4 @@
-# Here are the commit list for contribution 
-
-# 🔍 GitHub Profile Finder
+# 🔍 GitHub Profile Finder 
 
 A simple and responsive web application that allows users to search GitHub profiles using the GitHub REST API.
 
