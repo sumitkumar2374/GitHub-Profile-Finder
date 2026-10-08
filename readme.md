@@ -1,3 +1,4 @@
+one commit for graph 
 # 🔍 GitHub Profile Finder
 
 A simple and responsive web application that allows users to search GitHub profiles using the GitHub REST API.
